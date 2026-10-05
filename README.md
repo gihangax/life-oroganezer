@@ -1,2 +1,2 @@
-# life-oroganezer
-this is web app for organising goal tasks calendar budget ideas business 
+# life-oroganizer
+this is web app for organising goals tasks calendars budgets ideas business 
